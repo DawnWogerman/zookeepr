@@ -234,6 +234,28 @@
         "hungry"
       ],
       "id": "24"
+    },
+    {
+      "name": "Sprout",
+      "species": "Wiener",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "25"
+    },
+    {
+      "name": "Humphrey",
+      "species": "Turtle",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "26"
     }
   ]
 }
